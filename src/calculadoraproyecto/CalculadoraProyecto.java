@@ -15,8 +15,8 @@ public class CalculadoraProyecto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       
-        
+       Calculadora cal = new Calculadora();
+       cal.setVisible(true);
     }
     
     
